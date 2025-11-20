@@ -7,7 +7,7 @@
 - 🌐 Experience with **Flask**, **FastAPI**, **Django**, **REST APIs**
 - 🛠 Skills: **Git**, **GitHub Workflow (Branches & PRs)**, **SQL**, **Linux**
 - 📚 Learning **Frappe Framework / ERPNext** actively
-- 📱 Working efficiently even from mobile (no laptop… still shipping PRs!)
+  
 - 🚀 Passionate about backend engineering and open-source projects
 
 ### 📌 Open Source Contributions
