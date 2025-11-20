@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Murali 👋
 
-<!--
-**murali1304-hub/murali1304-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Engineer | Backend Developer | Open Source Contributor
 
-Here are some ideas to get you started:
+- 🔭 Currently contributing to **Frappe Framework** (documentation PRs)
+- 🧠 Strong fundamentals in **Python**, **APIs**, **OOP**, and **Debugging**
+- 🌐 Experience with **Flask**, **FastAPI**, **Django**, **REST APIs**
+- 🛠 Skills: **Git**, **GitHub Workflow (Branches & PRs)**, **SQL**, **Linux**
+- 📚 Learning **Frappe Framework / ERPNext** actively
+- 📱 Working efficiently even from mobile (no laptop… still shipping PRs!)
+- 🚀 Passionate about backend engineering and open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Open Source Contributions
+- **Frappe Framework (frappe/frappe)** — Documentation improvement PRs
+
+### 📬 Connect With Me
+- **Email**: murali1304hub@gmail.com
