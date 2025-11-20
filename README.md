@@ -14,4 +14,4 @@
 - **Frappe Framework (frappe/frappe)** — Documentation improvement PRs
 
 ### 📬 Connect With Me
-- **Email**: murali1304hub@gmail.com
+- **Email**: murali.ai1304@gmail.com
