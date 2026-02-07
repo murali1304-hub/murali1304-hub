@@ -1,17 +1,20 @@
 # Hi, I'm Murali 👋
 
-### 🐍 Python Engineer | Backend Developer | Open Source Contributor
+### 📊 Data Analyst | 2+ Years Experience
 
-- 🔭 Currently contributing to **Frappe Framework** (documentation PRs)
-- 🧠 Strong fundamentals in **Python**, **APIs**, **OOP**, and **Debugging**
-- 🌐 Experience with **Flask**, **FastAPI**, **Django**, **REST APIs**
-- 🛠 Skills: **Git**, **GitHub Workflow (Branches & PRs)**, **SQL**, **Linux**
-- 📚 Learning **Frappe Framework / ERPNext** actively
-  
-- 🚀 Passionate about backend engineering and open-source projects
+- 📈 Data Analyst with **2+ years of experience** in SQL-driven analysis, Python automation, and Power BI dashboarding  
+- 🧠 Strong in **data cleaning, validation, KPI tracking, and trend & variance analysis**  
+- 📊 Built interactive dashboards and analytical reports using **Power BI, Advanced Excel, and SQL**  
+- 🐍 Automated data analysis and reporting workflows using **Python (Pandas, NumPy)**  
+- 📂 Hands-on experience working with **large-scale datasets (2M+ records)** to deliver actionable business insights  
 
-### 📌 Open Source Contributions
-- **Frappe Framework (frappe/frappe)** — Documentation improvement PRs
+### 🛠 Technical Skills
+- **Data Analysis:** SQL, Advanced Excel, Python (Pandas, NumPy)  
+- **BI & Visualization:** Power BI, Tableau  
+- **Databases:** MySQL, Oracle DB  
+### 🔗 Open Source
+- Contributor to **Frappe Framework (frappe/frappe)** — documentation improvements  
+  *(Open-source contribution alongside analytics work)*
 
 ### 📬 Connect With Me
-- **Email**: murali.ai1304@gmail.com
+- **Email:** murali.ai1304@gmail.com
