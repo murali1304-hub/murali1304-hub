@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | 3+ Years Experience  
 
-- 📈 Data Analyst with **2+ years of experience** in SQL-driven analysis, Python automation, and Power BI dashboarding  
+- 📈 Data Analyst with **3+ years of experience** in SQL-driven analysis, Python automation, and Power BI dashboarding  
 - 🧠 Strong in **data cleaning, validation, KPI tracking, and trend & variance analysis**  
 - 📊 Built interactive dashboards and analytical reports using **Power BI, Advanced Excel, and SQL**  
 - 🐍 Automated reporting and analysis workflows using **Python (Pandas, NumPy)**  
