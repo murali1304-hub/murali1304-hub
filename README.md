@@ -1,6 +1,6 @@
 # Hi, I'm Murali 👋  
 
-### 📊 Data Analyst | 2+ Years Experience  
+### 📊 Data Analyst | 3+ Years Experience  
 
 - 📈 Data Analyst with **2+ years of experience** in SQL-driven analysis, Python automation, and Power BI dashboarding  
 - 🧠 Strong in **data cleaning, validation, KPI tracking, and trend & variance analysis**  
